@@ -20,18 +20,18 @@ function Home() {
             <a href='/events'><img className='event' src={Divine} alt="Divine" /></a>
             <img className='divider' src={Dividerclear} alt="Divider" />
             {/* Event Calender */}
-            <div className="mx-5">
-                <div class="container-fluid rounded featured">
-                    <div class="row mx-auto">
+            <div className="mx-3">
+                <div className="container-fluid rounded featured">
+                    <div className="row mx-auto">
                         <div className="col-lg-5 col-sm-12 my-5">
                         <img className='dividerclear' src={Dividerclear} alt="Divider" />
                             <h1>Featured Events</h1>
                             <img className='dividerclear' src={Dividerclear} alt="Divider" />
                         </div>
-                        <div class="col-lg-3 col-sm-12">
+                        <div className="col-lg-3 col-sm-12">
                             <Card className="mx-auto my-3 fcard" style={{ width: '18rem' }}>
                                 <Card.Body>
-                                    <Card.Link className="text-decoration-none eventlink" href="https://www.facebook.com/events/764949961766476/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A1141564776485509%7D%7D]%22%7D">Roosterpalooza, The Rooster. Feb. 18th 11am-4pm</Card.Link>
+                                    <Card.Link className="text-decoration-none eventlink" href="">Roosterpalooza, The Rooster. Feb. 18th 11am-4pm</Card.Link>
                                 </Card.Body>
                             </Card>
                             <Card className="mx-auto my-3 fcard" style={{ width: '18rem' }}>
@@ -45,7 +45,7 @@ function Home() {
                                 </Card.Body>
                             </Card>
                         </div>
-                        <div class="col-lg-3 col-sm-12">
+                        <div className="col-lg-3 col-sm-12">
                             <Card className="mx-auto my-3 fcard" style={{ width: '18rem' }}>
                                 <Card.Body>
                                 <Card.Link className="text-decoration-none eventlink" href="https://www.facebook.com/events/1177687696084765/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A503123615289012%7D%7D]%22%7D">Enchanted Bazaar, Petty Thieves Brewing. Apr. 15th 12am-6pm</Card.Link>
