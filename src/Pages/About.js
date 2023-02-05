@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import '.././App.css';
-import Divider from '.././Assets/Logos/Divider.png';
+import Dividerclear from '.././Assets/Logos/Dividerclear.png';
 import Card from 'react-bootstrap/Card';
 import Litha1 from '.././Assets/Logos/owopink.jpg';
 import Litha2 from '.././Assets/Logos/nosepiercing.jpg';
@@ -9,7 +9,7 @@ import Litha3 from '.././Assets/Logos/lithaHorse.jpg';
 function About() {
     return (
         <div>
-            <img className='divider mt-3' src={Divider} alt="Divider" />
+            <img className='divider mt-3' src={Dividerclear} alt="Divider" />
             
             <div className="my-3 rounded about container">
                 <div className="row">
@@ -25,7 +25,7 @@ function About() {
                    
                 </div>
             </div>
-            <img className='divider' src={Divider} alt="Divider" />
+            <img className='divider' src={Dividerclear} alt="Divider" />
             
             <div className="my-3 rounded about container">
                 <div className="row">
@@ -41,7 +41,7 @@ function About() {
                     </div>
                 </div>
             </div>
-            <img className='divider' src={Divider} alt="Divider" />
+            <img className='divider' src={Dividerclear} alt="Divider" />
 
             <div className="my-3 rounded about container">
                 <div className="row">
@@ -57,7 +57,7 @@ function About() {
                    
                 </div>
             </div>
-            <img className='divider' src={Divider} alt="Divider" />
+            <img className='divider' src={Dividerclear} alt="Divider" />
 
         </div>
     );

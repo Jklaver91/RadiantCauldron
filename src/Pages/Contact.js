@@ -4,7 +4,7 @@ import React from "react";
 import { Form, Col, Button } from 'react-bootstrap';
 import "bootstrap/dist/css/bootstrap.min.css";
 import '.././App.css';
-import Divider from '.././Assets/Logos/Divider.png';
+import Dividerclear from '.././Assets/Logos/Dividerclear.png';
 import Card from 'react-bootstrap/Card';
 import fbgreen from '.././Assets/Logos/fbgreen.jpg'
 import fbbrown from '.././Assets/Logos/fbbrown.jpg'
@@ -50,7 +50,7 @@ const Contact = () => {
 
   return (
     <div>
-      <img className='divider' src={Divider} alt="Divider" />
+      <img className='divider' src={Dividerclear} alt="Divider" />
       <h1 className="text">Contact us!</h1>
 
       <div>
@@ -79,7 +79,7 @@ const Contact = () => {
             Submit
           </Button>
         </Form >
-        <img className='divider' src={Divider} alt="Divider" />
+        <img className='divider' src={Dividerclear} alt="Divider" />
         
         {/* facebook community */}
         <div className="row">
@@ -105,7 +105,7 @@ const Contact = () => {
         </Card>
         </div>
       </div>
-      <img className='divider' src={Divider} alt="Divider" />
+      <img className='divider' src={Dividerclear} alt="Divider" />
     </div >
   );
 }
