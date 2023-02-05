@@ -2,8 +2,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import '.././App.css';
 import Dividerclear from '.././Assets/Logos/Dividerclear.png';
 import Card from 'react-bootstrap/Card';
-import Litha1 from '.././Assets/Logos/owopink.jpg';
-import Litha2 from '.././Assets/Logos/nosepiercing.jpg';
+import Litha1 from '.././Assets/Logos/pinklitha.jpg';
+import Litha2 from '.././Assets/Logos/greenlitha.jpg';
 import Litha3 from '.././Assets/Logos/lithaHorse.jpg';
 
 function About() {
