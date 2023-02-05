@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/%7BReactRadiantCauldon%7D/static/css/main.1077baf6.css",
+    "main.js": "/%7BReactRadiantCauldon%7D/static/js/main.3149ae20.js",
+    "static/js/787.85d1d793.chunk.js": "/%7BReactRadiantCauldon%7D/static/js/787.85d1d793.chunk.js",
+    "static/media/Vendor.png": "/%7BReactRadiantCauldon%7D/static/media/Vendor.b4933f50b80de91ccd2f.png",
+    "static/media/Base.png": "/%7BReactRadiantCauldon%7D/static/media/Base.b74d06898e2dab05938b.png",
+    "static/media/Divine.png": "/%7BReactRadiantCauldon%7D/static/media/Divine.49c0bfb354d74eecf80a.png",
+    "static/media/NavLogo.png": "/%7BReactRadiantCauldon%7D/static/media/NavLogo.8a666ed7944d50cac1e9.png",
+    "static/media/lithaHorse.jpg": "/%7BReactRadiantCauldon%7D/static/media/lithaHorse.8dcc2131da72035fb4fd.jpg",
+    "static/media/owopink.jpg": "/%7BReactRadiantCauldon%7D/static/media/owopink.91b99cd165b80a0d696f.jpg",
+    "static/media/nosepiercing.jpg": "/%7BReactRadiantCauldon%7D/static/media/nosepiercing.c16e93c3188c39011072.jpg",
+    "static/media/Dividerclear.png": "/%7BReactRadiantCauldon%7D/static/media/Dividerclear.9ad41dfffbefcad92000.png",
+    "static/media/fbgreen.jpg": "/%7BReactRadiantCauldon%7D/static/media/fbgreen.032d54ea6094ac725be6.jpg",
+    "static/media/fbbrown.jpg": "/%7BReactRadiantCauldon%7D/static/media/fbbrown.287b12112ce4b6b5d822.jpg",
+    "index.html": "/%7BReactRadiantCauldon%7D/index.html",
+    "main.1077baf6.css.map": "/%7BReactRadiantCauldon%7D/static/css/main.1077baf6.css.map",
+    "main.3149ae20.js.map": "/%7BReactRadiantCauldon%7D/static/js/main.3149ae20.js.map",
+    "787.85d1d793.chunk.js.map": "/%7BReactRadiantCauldon%7D/static/js/787.85d1d793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1077baf6.css",
+    "static/js/main.3149ae20.js"
+  ]
+}
