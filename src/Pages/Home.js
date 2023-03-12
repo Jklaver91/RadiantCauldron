@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Logo from '.././Assets/Logos/Base.png';
 import Dividerclear from '.././Assets/Logos/Dividerclear.png';
 import '.././App.css';
-import Divine from '.././Assets/Logos/Divine.png';
+import Divine from '.././Assets/Logos/EventBanners/Divine.png';
 import fbbrown from '.././Assets/Logos/fbbrown.jpg'
 import VendorBanner from '.././Assets/Logos/Vendor.png';
 import Card from 'react-bootstrap/Card';

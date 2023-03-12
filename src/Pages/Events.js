@@ -1,7 +1,7 @@
 // Styling imports
 import "bootstrap/dist/css/bootstrap.min.css";
 import '.././App.css';
-import Divine from '.././Assets/Logos/Divine.png';
+import Divine from '.././Assets/Logos/EventBanners/Divine.png';
 import Dividerclear from '.././Assets/Logos/Dividerclear.png';
 
 function Events() {

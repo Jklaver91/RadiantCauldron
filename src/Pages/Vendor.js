@@ -2,7 +2,7 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import '.././App.css';
 import Dividerclear from '.././Assets/Logos/Dividerclear.png';
-import Divine from '.././Assets/Logos/Divine.png';
+import Divine from '.././Assets/Logos/EventBanners/Divine.png';
 
 function Vendor() {
     return (
